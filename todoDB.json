@@ -1,0 +1,24 @@
+{
+    "name": "aifil",
+    "date": "2023-01-07",
+    "today": [
+        {
+            "task_id": 0,
+            "description": "hfagla",
+            "scheduled_time": "1700",
+            "status": "TBD"
+        },
+        {
+            "task_id": 1,
+            "description": "kjfha",
+            "scheduled_time": "1400",
+            "status": "DONE"
+        },
+        {
+            "task_id": 0,
+            "description": "jafkj",
+            "scheduled_time": "1800",
+            "status": "TBD"
+        }
+    ]
+}
